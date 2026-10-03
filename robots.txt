@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /admin/
+Allow: /catalog.html
+Allow: /images/
+Allow: /css/
+Allow: /js/
+Allow: /delivery.html
+Sitemap: https://example.ru/sitemap.xml

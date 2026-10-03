@@ -1,0 +1,1 @@
+document.querySelectorAll('[data-order]').forEach(button => { button.addEventListener('click', () => alert('Учебная форма заказа: заявка не отправляется.')); });
